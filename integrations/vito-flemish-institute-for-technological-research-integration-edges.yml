@@ -1,0 +1,16 @@
+generated: '2026-10-23'
+method: none
+source:
+- https://zapier.com/apps/vito-flemish-institute-for-technological-research/integrations
+- https://n8n.io/integrations/vito-flemish-institute-for-technological-research/
+- https://composio.dev/toolkits/vito-flemish-institute-for-technological-research
+- https://monid.ai/tools/vito-flemish-institute-for-technological-research
+checked:
+- https://composio.dev/toolkits/vito-flemish-institute-for-technological-research
+- https://monid.ai/tools/vito-flemish-institute-for-technological-research
+- https://n8n.io/integrations/vito-flemish-institute-for-technological-research/
+- https://zapier.com/apps/vito-flemish-institute-for-technological-research/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
